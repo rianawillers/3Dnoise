@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <LocalDebuggerCommandArguments>../data/noise.ulong 21 120 7 150 uint &gt; ../out/noise_ulong.out</LocalDebuggerCommandArguments>
+    <LocalDebuggerCommandArguments>../../data/noise.ulong 21 120 7 150 uint &gt; ../out/noise_ulong.out</LocalDebuggerCommandArguments>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
 </Project>
