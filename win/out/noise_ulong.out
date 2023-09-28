@@ -1,0 +1,16 @@
+Input file name       : ../data/noise.ulong
+
+Processing 100 frames : 21 to 120 (counting from 1!)
+Processing 100 rows   : 1 to 100 (counting from 1!)
+Processing 144 cols   : 7 to 150 (counting from 1!)
+type = uint : Unsigned long int images will be processed
+
+Image average S       :  580.51 (gl)
+Total system noise    :   5.553 (gl)
+
+Fixed/spatial noise (gl) | Temporal noise (gl) | Variation effect 
+-------------------------|---------------------|---------------------------
+Nh    :   1.958          | Nth   :   0.674     | Column - scan effects
+Nv    :   0.043          | Ntv   :   1.647     | Row - non-uniformity & dcs
+Nvh   :   0.489          | Ntvh  :   4.853     | Pixel -  detector noise
+                         | Nt    :   0.182     | Frame 

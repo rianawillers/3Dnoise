@@ -1,0 +1,12 @@
+
+19 Frames read from ../data/sensornoise.raw
+
+Image average S       :   2033.162 
+Total system noise    :      9.940 
+
+Fixed/spatial noise  | Temporal noise      | Variation effect
+---------------------|---------------------|-----------------
+Nh    :      3.138   | Nth   :      1.224  | Column 
+Nv    :      0.378   | Ntv   :      3.012  | Row 
+Nvh   :      2.038   | Ntvh  :      8.601  | Pixel 
+                     | Nt    :      0.346  | Frame 

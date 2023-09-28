@@ -1,0 +1,16 @@
+Input file name       : ../data/noise.float
+
+Processing  81 frames : 65 to 145 (counting from 1!)
+Processing 100 rows   : 1 to 100 (counting from 1!)
+Processing 144 cols   : 7 to 150 (counting from 1!)
+type = float : Float images will be processed
+
+Image average S       :  580.64 (gl)
+Total system noise    :  10.681 (gl)
+
+Fixed/spatial noise (gl) | Temporal noise (gl) | Variation effect 
+-------------------------|---------------------|---------------------------
+Nh    :   1.802          | Nth   :   1.841     | Column - scan effects
+Nv    :   0.280          | Ntv   :   7.731     | Row - non-uniformity & dcs
+Nvh   :   0.777          | Ntvh  :   6.800     | Pixel -  detector noise
+                         | Nt    :   0.872     | Frame 

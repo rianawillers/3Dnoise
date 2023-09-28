@@ -1,0 +1,8 @@
+*.vsidx
+*.lock
+*.suo
+*.db
+*.ipch
+/win/python/.ipynb_checkpoints
+/win/3Dnoise/x64
+/win/3Dnoise/3Dnoise.vcxproj.filters
