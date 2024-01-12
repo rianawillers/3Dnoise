@@ -1,4 +1,4 @@
-C code compiled in Visual Studion 2022
+C code compiled in Visual Studio 2022
 
 Use last flag: uint for unsigned long data / float for float data
 
