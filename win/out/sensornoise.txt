@@ -1,5 +1,5 @@
 
-19 Frames read from ../data/sensornoise.raw
+19 Frames read from ../../data/sensornoise.raw
 
 Image average S       :   2033.162 
 Total system noise    :      9.940 
